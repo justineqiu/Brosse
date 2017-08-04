@@ -9,13 +9,16 @@
 /* Begin PBXBuildFile section */
 		6313585E1F30E0D4009F3A00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6313585D1F30E0D4009F3A00 /* AppDelegate.swift */; };
 		631358601F30E0D4009F3A00 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6313585F1F30E0D4009F3A00 /* RootViewController.swift */; };
-		631358621F30E0D4009F3A00 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631358611F30E0D4009F3A00 /* DataViewController.swift */; };
-		631358641F30E0D4009F3A00 /* ModelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631358631F30E0D4009F3A00 /* ModelController.swift */; };
 		631358671F30E0D4009F3A00 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 631358651F30E0D4009F3A00 /* Main.storyboard */; };
 		631358691F30E0D4009F3A00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 631358681F30E0D4009F3A00 /* Assets.xcassets */; };
 		6313586C1F30E0D4009F3A00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6313586A1F30E0D4009F3A00 /* LaunchScreen.storyboard */; };
 		631358771F30E0D4009F3A00 /* PaintMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631358761F30E0D4009F3A00 /* PaintMeTests.swift */; };
 		631358821F30E0D4009F3A00 /* PaintMeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631358811F30E0D4009F3A00 /* PaintMeUITests.swift */; };
+		631358901F30EEFC009F3A00 /* brosse-bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6313588F1F30EEFC009F3A00 /* brosse-bg.jpg */; };
+		631358941F312932009F3A00 /* watercolor-2305966_960_720 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 631358931F312932009F3A00 /* watercolor-2305966_960_720 2.jpg */; };
+		631358961F324628009F3A00 /* def.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 631358951F324628009F3A00 /* def.jpg */; };
+		631358971F324AB2009F3A00 /* def.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 631358951F324628009F3A00 /* def.jpg */; };
+		631358981F324AB3009F3A00 /* def.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 631358951F324628009F3A00 /* def.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +42,6 @@
 		6313585A1F30E0D4009F3A00 /* PaintMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PaintMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6313585D1F30E0D4009F3A00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6313585F1F30E0D4009F3A00 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
-		631358611F30E0D4009F3A00 /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
-		631358631F30E0D4009F3A00 /* ModelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelController.swift; sourceTree = "<group>"; };
 		631358661F30E0D4009F3A00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		631358681F30E0D4009F3A00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6313586B1F30E0D4009F3A00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +52,9 @@
 		6313587D1F30E0D4009F3A00 /* PaintMeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PaintMeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		631358811F30E0D4009F3A00 /* PaintMeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintMeUITests.swift; sourceTree = "<group>"; };
 		631358831F30E0D4009F3A00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6313588F1F30EEFC009F3A00 /* brosse-bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "brosse-bg.jpg"; path = "../../brosse-bg.jpg"; sourceTree = "<group>"; };
+		631358931F312932009F3A00 /* watercolor-2305966_960_720 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "watercolor-2305966_960_720 2.jpg"; path = "../../watercolor-2305966_960_720 2.jpg"; sourceTree = "<group>"; };
+		631358951F324628009F3A00 /* def.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = def.jpg; path = ../../def.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,12 +107,13 @@
 			children = (
 				6313585D1F30E0D4009F3A00 /* AppDelegate.swift */,
 				6313585F1F30E0D4009F3A00 /* RootViewController.swift */,
-				631358611F30E0D4009F3A00 /* DataViewController.swift */,
-				631358631F30E0D4009F3A00 /* ModelController.swift */,
 				631358651F30E0D4009F3A00 /* Main.storyboard */,
 				631358681F30E0D4009F3A00 /* Assets.xcassets */,
 				6313586A1F30E0D4009F3A00 /* LaunchScreen.storyboard */,
 				6313586D1F30E0D4009F3A00 /* Info.plist */,
+				631358951F324628009F3A00 /* def.jpg */,
+				631358931F312932009F3A00 /* watercolor-2305966_960_720 2.jpg */,
+				6313588F1F30EEFC009F3A00 /* brosse-bg.jpg */,
 			);
 			path = PaintMe;
 			sourceTree = "<group>";
@@ -238,7 +243,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				631358961F324628009F3A00 /* def.jpg in Resources */,
+				631358901F30EEFC009F3A00 /* brosse-bg.jpg in Resources */,
 				6313586C1F30E0D4009F3A00 /* LaunchScreen.storyboard in Resources */,
+				631358941F312932009F3A00 /* watercolor-2305966_960_720 2.jpg in Resources */,
 				631358691F30E0D4009F3A00 /* Assets.xcassets in Resources */,
 				631358671F30E0D4009F3A00 /* Main.storyboard in Resources */,
 			);
@@ -248,6 +256,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				631358971F324AB2009F3A00 /* def.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,6 +264,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				631358981F324AB3009F3A00 /* def.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,8 +276,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				631358601F30E0D4009F3A00 /* RootViewController.swift in Sources */,
-				631358641F30E0D4009F3A00 /* ModelController.swift in Sources */,
-				631358621F30E0D4009F3A00 /* DataViewController.swift in Sources */,
 				6313585E1F30E0D4009F3A00 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -515,6 +523,7 @@
 				631358881F30E0D4009F3A00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		631358891F30E0D4009F3A00 /* Build configuration list for PBXNativeTarget "PaintMeTests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +532,7 @@
 				6313588B1F30E0D4009F3A00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6313588C1F30E0D4009F3A00 /* Build configuration list for PBXNativeTarget "PaintMeUITests" */ = {
 			isa = XCConfigurationList;
@@ -531,6 +541,7 @@
 				6313588E1F30E0D4009F3A00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

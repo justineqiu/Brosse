@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "decorating-cool-interior-design-of-an-ice-cream-shop-with-green-pleasant-home-ideas-orange-wall-paint-colors-and-mounted-storage-shelves-also_interior-design-colors_design-for-_1080x790.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
